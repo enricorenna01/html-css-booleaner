@@ -1,0 +1,18 @@
+/*Common styles*/
+body {
+    margin: 0;
+}
+.cointainer{
+    padding: 0 15px;
+}
+
+/*Header styles*/
+header {
+    background-color: rgba(156,214,244,255);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+img {
+    height: 45px
+}
