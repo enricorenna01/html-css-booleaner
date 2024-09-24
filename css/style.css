@@ -1,9 +1,19 @@
 /*Common styles*/
 body {
     margin: 0;
+    padding: 0;
 }
+
 .cointainer{
     padding: 0 15px;
+}
+
+p {
+    margin: 0;
+}
+
+img{
+    padding-left: 15px;
 }
 
 /*Header styles*/
@@ -15,4 +25,17 @@ header {
 
 img {
     height: 45px
+}
+
+/*Main styles*/
+h1 {
+    margin-bottom: 0;
+}
+
+.author{
+    color: gray;
+}
+
+.author-name {
+    color: rgba(161,181,255,255);
 }
