@@ -90,3 +90,12 @@ table thead {
 .column-table {
     width: 50%;
 }
+
+/*Footer styles*/
+footer {
+    background-color: rgba(49,58,107,255);
+    text-align: center;
+    color: white;
+    font-size: smaller;
+    padding: 20px 0;
+}
