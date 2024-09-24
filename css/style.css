@@ -64,3 +64,29 @@ h1 {
 .text span {
     background-color: yellow;
 }
+.list-text {
+    margin-bottom: 30px;
+}
+
+ul {
+    padding: 15px;
+    list-style-position: inside;
+}
+
+table {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+table thead {
+    background-color: rgba(127,166,251,255);
+    color: white;
+}
+
+.line-table {
+    background-color: rgba(223,229,242,255);
+}
+
+.column-table {
+    width: 50%;
+}
