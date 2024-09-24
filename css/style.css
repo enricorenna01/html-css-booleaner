@@ -4,30 +4,32 @@ body {
     padding: 0;
 }
 
-.cointainer{
-    padding: 0 15px;
-}
-
 p {
     margin: 0;
 }
 
-img{
-    padding-left: 15px;
+/*Header styles*/
+.cointainer{
+    padding: 0 15px;
 }
 
-/*Header styles*/
+header img{
+    padding-left: 15px;
+    height: 45px
+}
+
 header {
     background-color: rgba(156,214,244,255);
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
-img {
-    height: 45px
+/*Main styles*/
+.title-cointainer{
+    margin-bottom: 25px;
+    padding-left: 15px;
 }
 
-/*Main styles*/
 h1 {
     margin-bottom: 0;
 }
@@ -38,4 +40,18 @@ h1 {
 
 .author-name {
     color: rgba(161,181,255,255);
+}
+
+.author-date{
+    font-size: smaller;
+}
+
+.image-cointainer {
+    padding-left: 15px;
+}
+
+.image-text {
+    font-size: smaller;
+    margin-bottom: 30px;
+    padding-left: 15px;
 }
