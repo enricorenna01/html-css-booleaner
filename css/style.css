@@ -76,6 +76,7 @@ ul {
 table {
     text-align: left;
     margin-bottom: 30px;
+    padding: 0 15px;
 }
 
 table thead {
