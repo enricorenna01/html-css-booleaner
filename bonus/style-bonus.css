@@ -1,0 +1,102 @@
+/*Common styles*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+/*Header styles*/
+.cointainer{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+header img{
+    height: 45px;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgba(156,214,244,255) ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/*Main styles*/
+.title-cointainer{
+    margin-bottom: 25px;
+    padding-left: 15px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.author{
+    color: gray;
+}
+
+.author-name {
+    color: rgba(161,181,255,255);
+}
+
+.author-date{
+    font-size: smaller;
+}
+
+.image-cointainer {
+    padding-left: 15px;
+}
+
+.image-text {
+    font-size: smaller;
+    margin-bottom: 30px;
+    padding-left: 15px;
+}
+
+.text {
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+
+.text span {
+    background-color: yellow;
+}
+.list-text {
+    margin-bottom: 30px;
+}
+
+ul {
+    padding: 15px;
+    list-style-position: inside;
+}
+
+table {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+table thead {
+    background-color: rgba(127,166,251,255);
+    color: white;
+}
+
+.line-table {
+    background-color: rgba(223,229,242,255);
+}
+
+.column-table {
+    width: 50%;
+}
+
+/*Footer styles*/
+footer {
+    background-color: rgba(49,58,107,255);
+    text-align: center;
+    color: white;
+    font-size: smaller;
+    padding: 20px 0;
+}
